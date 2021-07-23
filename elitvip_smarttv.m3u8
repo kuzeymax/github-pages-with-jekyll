@@ -2433,11 +2433,3 @@ http://195.142.152.86:5656/play/a05j
 http://195.142.152.86:5656/play/a04w
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", RADYO SHOW
 https://ip169.ozelip.com:10998/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-30kAqW268KU/YOlWcZiAthI/AAAAAAAAUKA/IBWcJ6zGDDsOn4HRToL7Xq9pvYv2t6_jQCLcBGAsYHQ/s90/SUPERTURKTV.png", SUPERTURK HD [17:00-02:00 ARASI YAYINDA]
-https://live-server-2.splitstream.io/7b0acd53-acd9-4e54-a672-f17cc97480f3/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-ToiEd9fW47Y/YJHXNf_q1iI/AAAAAAAATYI/v4e40jHefYINsQY_VqdGTktFR2hEZcOnwCLcBGAsYHQ/s90/SUNAL1.png", KEMAL SUNAL 1 HD
-http://145.239.37.125:20458/sabantv/sabantv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-zSLk311bXVs/YJHXNRU84OI/AAAAAAAATYM/c9k8s8IMLfU-opxyJoyEt3N-j_RS2Iy5wCLcBGAsYHQ/s90/SUNAL12.png", KEMAL SUNAL 2 HD
-http://145.239.37.125:20458/sabantv2/sabantv2/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="https://1.bp.blogspot.com/-W5O2Y0LJtis/YJHXNSZzr3I/AAAAAAAATYQ/ng-IqjZSl-krFDgMgkRbZxVeG5UlTMvjgCLcBGAsYHQ/s90/SUNAL123.png", KEMAL SUNAL 3 HD
-http://fidece38941.ozelip.com:2052/sabantv/sabantv/playlist.m3u8

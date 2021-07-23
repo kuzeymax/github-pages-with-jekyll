@@ -2433,13 +2433,3 @@ http://195.142.152.86:5656/play/a05j
 http://195.142.152.86:5656/play/a04w
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_TURKRADYOLAR", RADYO SHOW
 https://ip169.ozelip.com:10998/;
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR" logo="http://picon.webhop.net/logo/turkeyT/mc_eu.png", MC EU TV
-https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&type=live&service=wowza&protocol=https&output=playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR", TEBER 1
-https://live-server-2.splitstream.io/2eb3728e-cbaa-4af6-a51f-40dc6b580431/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR", TEBER 2
-https://live-server-2.splitstream.io/64952c63-8436-4101-8a9e-8d987726e2aa/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR", TEBER 3
-https://live-server-2.splitstream.io/0c5cf555-a6cb-4559-8450-cd08b99803af/tracks-v1a1/mono.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_OZEL_iPTV_KANALLAR", KANAL HAYAT
-https://playback2.akamaized.net/streams/7475784_8817566_lsio02gdfmk5xk4yag9_1/exp=1627168145~acl=%2f*~data=hdntl~hmac=53565b18ab059c68859a6530fb52ad7cef73f42a1f511224d714edbfa29f79a0/media/7475784_8817566_lsio02gdfmk5xk4yag9_1@678000pb.m3u8?dw=14400&ts=1627081200

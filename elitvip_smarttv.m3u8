@@ -232,7 +232,7 @@ http://sabantv2020.ozelip.com:8080/belgeseltv/belgeseltv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="40" group="SUPERSATFORUM_COCUK_TV" size="Small", CARTOON NETWORK
 http://185.129.1.242:80/cartoonnetworkturk/mpegts
 #EXTINF:0 type="stream" channelId="19" group="SUPERSATFORUM_COCUK_TV", DiSNEY CHANNEL
-http://149.255.152.66:8080/disneychan/index.m3u8
+http://yayin2.tvizlehd.com/dcchanel.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_COCUK_TV" logo="https://1.bp.blogspot.com/-evZI17m_TIw/YFJlpHkatFI/AAAAAAAAR6E/RRxpBrjO4ZQ20Ywnzl9j9F27QRKiWsl4gCLcBGAsYHQ/s90/N%25C4%25B0LOYATV.png", KiDS NiLOYA TV HD
 http://snmtv.ozelip.com:2052/niloyatv/niloyatv/chunklist_w1844721993.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SUPERSATFORUM_COCUK_TV" logo="https://1.bp.blogspot.com/-Zem8f-UtyH0/YFJlpAFacwI/AAAAAAAAR6A/OQi90lojGhMPdoQBDmCshmWwAa9T-joaACLcBGAsYHQ/s90/MA%25C5%259EATV.png", KiDS MASA TV HD

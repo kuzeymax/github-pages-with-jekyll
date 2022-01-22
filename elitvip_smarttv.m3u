@@ -587,13 +587,13 @@ http://51.254.48.123:2052/tctv/tctv/chunklist.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="8_OZEL_iPTV_KANALLAR_2" logo="https://1.bp.blogspot.com/-dVp2X6rWyBc/YKLRWMSwBhI/AAAAAAAATlg/-nc2fDbG_-UMx4AXbMTje7HbuYwIlAXaACLcBGAsYHQ/s991/YTV.png", YARIMADA TV
 http://sabantv2020.ozelip.com:8080/yarimadatv/yarimadatv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_2" logo="https://1.bp.blogspot.com/-m8DVrO62bLs/X0Dv4yXwCPI/AAAAAAAAOaQ/OHZMsPXfYtcTK52mc9JaEUNATmp_I6dNQCLcBGAsYHQ/s640/AKT%25C4%25B0FTV.png", AKTiF TV HD
+#EXTINF:0 type="stream" channelId="-1" group="8_OZEL_iPTV_KANALLAR_2" logo="https://1.bp.blogspot.com/-m8DVrO62bLs/X0Dv4yXwCPI/AAAAAAAAOaQ/OHZMsPXfYtcTK52mc9JaEUNATmp_I6dNQCLcBGAsYHQ/s640/AKT%25C4%25B0FTV.png", AKTiF TV HD
 http://aktif2830.ozelip.com:30124/aktif/aktif/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_2" logo="https://blogger.googleusercontent.com/img/a/AVvXsEglzoUhhrpFEeA3-0UGohA4VVGv4JJBwdcNvsv1ybfrGbkIpzMzPj_cPmIAi23YMQMcmkbmIZQ72j8GKPq5ZxLrYtJ2-TpYGrl3XF_VlYsD60j3xI4riYKqUAhLRZAdRU0vVtilPr4ueciZZnfRaMlZDAZmGaF4IM6-z03-wRdMAFsE7qvvKRp6_-qnVA=w177-h47", BASKAN TV
+#EXTINF:0 type="stream" channelId="-1" group="8_OZEL_iPTV_KANALLAR_2" logo="https://blogger.googleusercontent.com/img/a/AVvXsEglzoUhhrpFEeA3-0UGohA4VVGv4JJBwdcNvsv1ybfrGbkIpzMzPj_cPmIAi23YMQMcmkbmIZQ72j8GKPq5ZxLrYtJ2-TpYGrl3XF_VlYsD60j3xI4riYKqUAhLRZAdRU0vVtilPr4ueciZZnfRaMlZDAZmGaF4IM6-z03-wRdMAFsE7qvvKRp6_-qnVA=w177-h47", BASKAN TV
 http://aktif2830.ozelip.com:30124/baskantv/baskantv/chunklist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_2" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgwwvL7O9d36pvJDHnI4CRrvMGWowlSNsXc2zHgxqyaP2_2fUhmCUUei51Jx55GBi0zmZy4I3ZRs0oVKFBBFSGzkjKxOi2P7FewGCNynYDhxRjQz8sRoFptbDMczcrxPwPMiJidnsO-18KkOuD0HwYvWTr2_F3KfcHDlBNtWo8KZsGmsGfAyCwaKdRT6A=w102-h97", DURAK TV
+#EXTINF:0 type="stream" channelId="-1" group="8_OZEL_iPTV_KANALLAR_2" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgwwvL7O9d36pvJDHnI4CRrvMGWowlSNsXc2zHgxqyaP2_2fUhmCUUei51Jx55GBi0zmZy4I3ZRs0oVKFBBFSGzkjKxOi2P7FewGCNynYDhxRjQz8sRoFptbDMczcrxPwPMiJidnsO-18KkOuD0HwYvWTr2_F3KfcHDlBNtWo8KZsGmsGfAyCwaKdRT6A=w102-h97", DURAK TV
 http://aktif2830.ozelip.com:30124/duraktv/duraktv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_2" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjsE8bRJKpf1VkT6tw6AaWgsUXHnBmiVMTtSWnBeHyuCR2UDn-xq0Nm1u8JrCGpDkG073Ku5snRnVc6dryhWgdiqD1R1dQUyw7hQBVF2CJdwmsZ_pwpi0laT_mlQWdqexBl2Gus9rrIPZGFGnlIc_hdMvcj7tzxXP9ckXMiUtKKSWigSAboDGJ8q4EJcw=w110-h58", GOPSEN TV
+#EXTINF:0 type="stream" channelId="-1" group="8_OZEL_iPTV_KANALLAR_2" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjsE8bRJKpf1VkT6tw6AaWgsUXHnBmiVMTtSWnBeHyuCR2UDn-xq0Nm1u8JrCGpDkG073Ku5snRnVc6dryhWgdiqD1R1dQUyw7hQBVF2CJdwmsZ_pwpi0laT_mlQWdqexBl2Gus9rrIPZGFGnlIc_hdMvcj7tzxXP9ckXMiUtKKSWigSAboDGJ8q4EJcw=w110-h58", GOPSEN TV
 http://aktif2830.ozelip.com:30124/gopsentv/gopsentv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="8_OZEL_iPTV_KANALLAR_2" logo="https://blogger.googleusercontent.com/img/a/AVvXsEikE5IUPIwWqDWtwHXYDA04pRTF9483_2cTcqe5iG7dJ8EvqNGN1H2tZeigdynGMd80XXFEItz-GWDQ8HAtcKS7s0xsmaLF6OxoppJ89_QTBCA1pLvSLVKfzif8BfvAo5_SaBfER32O8DICitzJxaPJRPV6KvdEr80ssDe2T52lnBzoLZ-BKaaid05rqQ=w151-h55", AKKON TV
 http://aktif2830.ozelip.com:30124/akkontv/akkontv/playlist.m3u8

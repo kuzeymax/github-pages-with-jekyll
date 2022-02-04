@@ -205,6 +205,8 @@ http://live-server-1.splitstream.io/130342e6-e312-4a41-8d15-98e98ae01ae4/tracks-
 http://live-server-2.splitstream.io/f97acc5c-54ed-41a4-bfd0-4660219bc721/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEin66xZDt5p6BQ8Kk3501wVatZPbaOCZDA_o3-ZQ7u6p3KVVXRVB2VQ2iabFzapRFCElaSI5ShDcAM0IyinnVkfyhBcLUkaGGfKH2xCz3ciQrDxY_8pNuTeu1rQwyIhks2mDrE7I0J8GjSHlVppWpOPZ4HwxJZk3p9f4xCVu_ts92VsRCl9URATp-YtOw", OZGUR MEDYA TV HD
 http://live-server-1.splitstream.io/55b2f084-70ca-4e03-ab38-8f0acd11aaaf/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEj3JsrVdUYf0T01UH0OPI1-eYa6bncv0c6AlBXuJvupmufaWgCLydl05wFhSxrR1Dswn9-SpEmwi2JsXaMpaFPEIg9tsxNs9IjfS9FY18zwuy-8e2VYQIweuuD9FHSZAOqRkv_dtEWzv3Cd_h0G8CH1ya83y7Wc3gmFq_oKHFHSSzDD7FCjRqwy3d_gMA=w86-h87", TELEON HD
+http://live-server-2.splitstream.io/474f286e-10bb-414c-816b-652239507141/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="1092" group-title="3_ULUSAL_BELGESEL_KANALLAR", TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="3092" group-title="3_ULUSAL_BELGESEL_KANALLAR", TRT BELGESEL HD

@@ -173,6 +173,8 @@ http://tv56245.ozelip.com:2052/almanyadaturktv/almanyadaturktv/playlist.m3u8
 http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEg1JMqpVOeaivvJAOeiWh6wtYxUN8YDhbXrdGEiMovjQhyjjl6uP6lmW32TVZ_5iFnecTab-xLV9X0I4aXZ8zx7m96vRcuCKSntD6egotZaTQ2SAEX9WzMVWgqUINxucIVvBDWpxIlkoMp2ugZh9vSNjTCMmqxTk3Mo5xhsSYYg2yNt_NcESXz9x2LWsQ=w93-h50", YAREN TV
 https://59cba4d34b678.streamlock.net/canlitv/yarentv/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjD2l9vUgO529fYV9bVd4KdX5XQR7KlMXI5mnHVT8lk5m7HryklOV8QdAd-4s495DEeWL8ucFud_4OQMKZv7i2Jcw6MFgnlQNLV2A44l739Y97yBAzZzjK4__wnat8Ana3R88TpQa1txgjFGNe9n97Tm1rcPAGLLpo8TQHC98-2-mOeJ8uCQaqly5bsFg=s468", SAT ON TV
+https://hls-eu.loola.tv/hlspush/nEhkJ-1H0yUF.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-aa9ZaKjt4rU/YBFx9bjOvkI/AAAAAAAAQp8/3qnaBTMj14AM-xsBSX-Sl0__5fzertnaACLcBGAsYHQ/s90/YANSIMATV.png", YANSIMA TV HD
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-aa9ZaKjt4rU/YBFx9bjOvkI/AAAAAAAAQp8/3qnaBTMj14AM-xsBSX-Sl0__5fzertnaACLcBGAsYHQ/s90/YANSIMATV.png", YANSIMA PREMIUM TV
@@ -180,7 +182,7 @@ https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansimapremiumtv/chunklist_w1
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-aa9ZaKjt4rU/YBFx9bjOvkI/AAAAAAAAQp8/3qnaBTMj14AM-xsBSX-Sl0__5fzertnaACLcBGAsYHQ/s90/YANSIMATV.png", YANSIMA CLASSiC HD
 https://5e06e5e8c2e27.streamlock.net:1936/videonow/YansinemaTV/chunklist_w18062564.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEin66xZDt5p6BQ8Kk3501wVatZPbaOCZDA_o3-ZQ7u6p3KVVXRVB2VQ2iabFzapRFCElaSI5ShDcAM0IyinnVkfyhBcLUkaGGfKH2xCz3ciQrDxY_8pNuTeu1rQwyIhks2mDrE7I0J8GjSHlVppWpOPZ4HwxJZk3p9f4xCVu_ts92VsRCl9URATp-YtOw", OZGUR MEDYA TV HD
-https://rtmp-eu.loola.tv:8081/hlspush/Z1Ai7y5-Z1hm3Vf.m3u8
+https://hls-eu.loola.tv/hlspush/Z1Ai7y5-Z1hm3Vf.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhuaRK4pSaeVCcbUjgBpJ2AK_t4UXHYmB1zWcAtQOZPuEDQ0iCb_fcgTLA7uaw23-PwwH9IsLN94TzeU9bu1ktfUSicOwotNHQpr1HnoYoLbZLkLNZz0M0Ha1kTi4CPm251zzleM3ckeq4laj9vfPg42Uig8kW4aDwacx9A8DlXqx1ISYbcuHbyyU-0kQ", ANKA TV HD
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/5592.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEi0gOPAtzZG3kNgfYJcTJaCwKxacaz8aNNDYUa26eaWyWmCY0JTjWyIk1LRKq6XEg_9Zb1aMxvno2Ytok-Ve-_bzGOSAugSMmFlyS0pvfDAbowempdyL8oKt22DiZm4Gxk8me4C_IF_1hzIkCskBhqkKviu3YzfXRJuGH_BQjHjo0wOK9v4FP1SZFf94A=w156-h39", MiSKET TV HD
@@ -189,8 +191,6 @@ http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/3892.m3u8
 http://misket.tv:2020/live/anka-icin-test/fhoPny6SRC/3685.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyY0GEDf7rezWhgdCf1wzDzhWJskPxqc8AK5psFTc27ShAWFvzEqnpzL_lXrnF9U-RIsa8Y66jug9pXOG9_FGfFdWNjmguA7eWn2GxHPZq_ipnQ-HqDWMEuoeyssN_FRmN3nD-ppqaqm8CsRE59BtGSWW33iIdUx_Vx8rq4yT4_WJC0_y-g6ZSA0eYXQ/s1600/ONTVLOGO.png", TELEON TV
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_nowmediagroup_digitalplatform_/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjD2l9vUgO529fYV9bVd4KdX5XQR7KlMXI5mnHVT8lk5m7HryklOV8QdAd-4s495DEeWL8ucFud_4OQMKZv7i2Jcw6MFgnlQNLV2A44l739Y97yBAzZzjK4__wnat8Ana3R88TpQa1txgjFGNe9n97Tm1rcPAGLLpo8TQHC98-2-mOeJ8uCQaqly5bsFg=s468", SAT ON TV
-http://live-server-2.splitstream.io/474f286e-10bb-414c-816b-652239507141/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="1092" group-title="3_ULUSAL_BELGESEL_KANALLAR", TRT BELGESEL
 http://tv-trtbelgesel.live.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="3092" group-title="3_ULUSAL_BELGESEL_KANALLAR", TRT BELGESEL HD

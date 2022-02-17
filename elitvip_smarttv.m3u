@@ -131,6 +131,12 @@ https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
 http://aktif2830.ozelip.com:30124/aktif/aktif/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEglzoUhhrpFEeA3-0UGohA4VVGv4JJBwdcNvsv1ybfrGbkIpzMzPj_cPmIAi23YMQMcmkbmIZQ72j8GKPq5ZxLrYtJ2-TpYGrl3XF_VlYsD60j3xI4riYKqUAhLRZAdRU0vVtilPr4ueciZZnfRaMlZDAZmGaF4IM6-z03-wRdMAFsE7qvvKRp6_-qnVA=w177-h47", BASKAN TV HD
 https://tv170.ozelip.com:1936/baskantv/baskantv/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEi9JWFP-qvv9buOYzptBfFzSOVs2jZisS0-5PM8jycoVfI1_BgRngTZ4n5NUrAMm61YNMoR-OFy2prbfkJ4_Teo3NcQlw6qmQEc4mZyb8U2cpu2tYJn15oTghMjeTiqj2HI4Z-3ug_G7Aeko4wmXgNAzI2lP6Q5TpwYrs48n3UV2eGThjvUu6tYnx2e5g=s320", BEYAZ MEDYA SiNEMA
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEi9JWFP-qvv9buOYzptBfFzSOVs2jZisS0-5PM8jycoVfI1_BgRngTZ4n5NUrAMm61YNMoR-OFy2prbfkJ4_Teo3NcQlw6qmQEc4mZyb8U2cpu2tYJn15oTghMjeTiqj2HI4Z-3ug_G7Aeko4wmXgNAzI2lP6Q5TpwYrs48n3UV2eGThjvUu6tYnx2e5g=s320", BEYAZ MEDYA YESiLCAM
+https://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEi9JWFP-qvv9buOYzptBfFzSOVs2jZisS0-5PM8jycoVfI1_BgRngTZ4n5NUrAMm61YNMoR-OFy2prbfkJ4_Teo3NcQlw6qmQEc4mZyb8U2cpu2tYJn15oTghMjeTiqj2HI4Z-3ug_G7Aeko4wmXgNAzI2lP6Q5TpwYrs48n3UV2eGThjvUu6tYnx2e5g=s320", BEYAZ MEDYA MUZiK
+https://cdn11-beyazmedya-muzik.yayin.com.tr/beyazmedya-muzik/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEhawE8m-tn-Iq5iypkXXaZHaKffwjX2XNa8c3lvbtuhKfFQtnNEuzOrKj12EzjtKT3-NglhC0f3rJ6LRB127seSycbIct3rFtFl6Em3n8QzwWV9O8qo5x0-HQJosU-50-e-nfoP_DNBISVilcJ5y7MJM6RfJCtumkP5PGIRS2UjiqPN6PDD4D_BI2u6kw=w107-h46", CiNEMiDi TV HD
 https://cdn-cinemidi.yayin.com.tr/cinemidi/cinemidi/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://vipotv.com/wp-content/uploads/2021/07/cine5-tv-izle-turkey-vipotv.png", CiNE5 TV

@@ -77,6 +77,8 @@ https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/60995084866ac3099473a292?w=80&q=75", ID HD TR
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEjehuRK2GDvJHjbGxFSztfkRMudo1asKxjb45tU__zpd6a6m0QxpzyoKxVR5HJgIyRhJdUhTF0NVHsF7NiPuUGcDlIhbdJfkCmsuqSghrT1fleD9wsCbEWDl1QfhS05XARFK0np7vi6Dx5GOxFGTzMbRvU9N4ZtFim0CBicTbrwgshKdO_ttviARgTp=s320", SUPER TURK FHD
+https://kali.vdopanel.com:3529/hybrid/play.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-QywTE5G4MZM/YSTOpvY88RI/AAAAAAAAUVw/mgxUzIV8wzcO6j--Hn9dOD2sQ48eeedmgCLcBGAsYHQ/s90/B5.png", BLU AKSiYON HD
 https://mn-nl.mncdn.com/blutv_aksiyon/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-bNZk3bz1-s8/YSTOpZeZUkI/AAAAAAAAUVs/xL6T_ZKDL4gKe4o_Wmet5IC_ERBe4o1MACLcBGAsYHQ/s90/B4.png", BLU KOMEDi HD

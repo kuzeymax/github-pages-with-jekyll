@@ -28,7 +28,7 @@ https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1076" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-GWmwAkiTtZg/YI3gWQsQSpI/AAAAAAAATR8/jM4xk3oIcDwNX6LWypePM-ZsC89xN3cdwCLcBGAsYHQ/s0/TV8.png", TV8 HD
 https://59cba4d34b678.streamlock.net/filbox/tv8.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1076" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-GWmwAkiTtZg/YI3gWQsQSpI/AAAAAAAATR8/jM4xk3oIcDwNX6LWypePM-ZsC89xN3cdwCLcBGAsYHQ/s0/TV8.png", TV8 HD YEDEK
-http://ch-media.site:8080/live/papa/papa12/169160.m3u8
+http://46.29.169.27:8000/play/a01n
 #EXTINF:0 type="stream" channelId="-1" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-eY2gpbPF9nQ/X5yapo7LIgI/AAAAAAAAPdU/PxaUzSWJaEwxf-DNWtWW7xKCvTjAJLEPgCLcBGAsYHQ/s0/tv8%25C4%25B1nt.png", TV8 iNT HD
 https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="3991" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-f_Y8Igvh2NY/YI3eQBolpXI/AAAAAAAATRg/HQFrcs6G5Lo5UJ4jc313jhqO6w1wvClUQCLcBGAsYHQ/s0/TV85%2B-%2BKopya.png", TV8 BUCUK HD
@@ -54,7 +54,7 @@ https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
 #EXTINF:0 type="stream" channelId="4632" group-title="1_ULUSAL_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/f/np/13872/Thumbnail.png?v=636996545585843191", SHOWMAX HD
 http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3992" name="TR: BOSS KEMAL SUNAL" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-QvOG8_nCdQ4/YI3eM6oZyCI/AAAAAAAATQo/XHbRVV4wJZYZxhMNu4tOSCnuwjUzbci-ACLcBGAsYHQ/s0/A2%2B-%2BKopya.png" tvg-country="tr", A2 TR HD
-http://ch-media.site:8080/live/papa/papa12/113439.m3u8
+http://46.29.169.27:8000/play/a02s
 #EXTINF:0 type="stream" channelId="3040" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-NPNeFZp5Vkg/YI3ePZmi9uI/AAAAAAAATRU/Qkq8zk5iY1sbN3qU90TEepItuP7_rGomACLcBGAsYHQ/s0/TEVE2.png", TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3040" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-NPNeFZp5Vkg/YI3ePZmi9uI/AAAAAAAATRU/Qkq8zk5iY1sbN3qU90TEepItuP7_rGomACLcBGAsYHQ/s0/TEVE2.png", TEVE 2 HD
@@ -180,7 +180,7 @@ http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1096" group-title="4_COCUK_TV_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/I/WS/13404/Thumbnail.png?v=636958834310955771", MiNiKA GO
 http://iptvmasterlink.dyndns.org:8080/MinikaGo/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1097" group-title="4_COCUK_TV_KANALLAR", MiNiKA COCUK
-http://ch-media.site:8080/live/papa/papa12/248862.m3u8
+http://46.29.169.27:8000/play/a01k
 #EXTINF:0 type="stream" channelId="1059" group-title="4_COCUK_TV_KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/61812fbc866ac312580210c5?w=80&q=75", TRT COCUK HD
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 type="stream" channelId="1059" group-title="4_COCUK_TV_KANALLAR" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/61812fbc866ac312580210c5?w=80&q=75", TRT COCUK HD YEDEK
@@ -242,7 +242,7 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:0 type="stream" channelId="1094" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://1.bp.blogspot.com/-vDdVJAy7heA/XmyqU6m_msI/AAAAAAAAKN8/y2XUOUndCDcYIDSUekAjzZgyCM0_d6sAQCLcBGAsYHQ/w945-h600-p-k-no-nu/dGYZIpT3_400x400.png", YOL TV
 http://stream.yol.tv:9485/medialive/yol.m3u8
 #EXTINF:0 type="stream" channelId="3078" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR", A HABER FHD
-http://ch-media.site:8080/live/papa/papa12/75989.m3u8
+http://46.29.169.27:8000/play/a01n
 #EXTINF:0 type="stream" channelId="4022" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR" logo="https://www.akittv.com.tr/uploads/2018/03/akit-tv-logo-2016-1.png", AKiT TV
 https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
 #EXTINF:0 type="stream" channelId="4015" group-title="5_ULUSAL_HABER_EKONOMi _KANALLAR", BENGU TURK
@@ -308,7 +308,7 @@ https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="6_SPOR_SiFRESiZ_TV_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/r/qJ/13729/Thumbnail.png?v=636958841750981510", A SPOR FHD
 https://trkvz-live.daioncdn.net/aspor/aspor_1080p.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="6_SPOR_SiFRESiZ_TV_KANALLAR" logo="https://vipotv.com/wp-content/uploads/2021/09/beIN-Sports-Haber-izle-vipotv-turkiye.png", beIN SPORTS HABER
-http://ch-media.site:8080/live/papa/papa12/76304.m3u8
+http://46.29.169.27:8000/play/a044
 #EXTINF:0 type="stream" channelId="1060" group-title="6_SPOR_SiFRESiZ_TV_KANALLAR" logo="https://1.bp.blogspot.com/-YyzG57Vt_xo/XsZOOWlmsPI/AAAAAAAANc0/FOtjkTG1IbMO4Dbr8xThx_Jm3OTQJGP9gCLcBGAsYHQ/s200/trtspor.png", TRT SPOR FHD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="1095" group-title="6_SPOR_SiFRESiZ_TV_KANALLAR", TRT SPOR HD
@@ -318,7 +318,7 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="6_SPOR_SiFRESiZ_TV_KANALLAR" logo="https://vipotv.com/wp-content/uploads/2020/04/TRT-Spor-Yildiz-canli-izle-vipotv-canli-spor-maclar.png", TRT SPORT YILDIZ HD
 https://mn-nl.mncdn.com/blutv_trtsporyildiz_dvr/live_720p2000000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="6_SPOR_SiFRESiZ_TV_KANALLAR" logo="https://vipotv.com/wp-content/uploads/2020/10/tivibu-spor-vipotv-min.png", TiViBU SPOR HD
-http://ch-media.site:8080/live/papa/papa12/160593.m3u8
+http://46.29.169.27:8000/play/a04f
 #EXTINF:0 type="stream" channelId="3086" group-title="6_SPOR_SiFRESiZ_TV_KANALLAR", GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:0 type="stream" channelId="1090" group-title="6_SPOR_SiFRESiZ_TV_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/g/fi/13391/Thumbnail.png?v=636926454802035450", FB TV

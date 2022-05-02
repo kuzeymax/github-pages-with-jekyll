@@ -120,9 +120,9 @@ http://yerelmedya.tv:1935/kanal2000/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-ouK2ZRcNR84/X3Lqgg1pzPI/AAAAAAAAPAM/kyUOyu2ogd0MqTLkN38iw2JXPy8PTx-ywCLcBGAsYHQ/s0/kanal2000.PNG", MSCB KANAL 2000 SD
 https://59cba4d34b678.streamlock.net/canlitv/kanal-2000/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://vipotv.com/wp-content/uploads/2022/03/NTN-HD-Yesilcam-cinema-movie-live-turkiye.png", NTN YESiLCAM HD
-https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
+https://tivi191.ozelip.com:3588/multi_web/play_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://vipotv.com/wp-content/uploads/2022/03/NTN-HD-Yesilcam-cinema-movie-live-turkiye.png", NTN YESiLCAM FHD
-https://tv.ntnhd.com:3588/multi_web/play_1080.m3u8
+https://tivi191.ozelip.com:3588/multi_web/play_1080.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://vipotv.com/wp-content/uploads/2022/03/NTN-HD-Discovery-belgesel-canli-izleyin-turkiye.png", NTN BELGESEL HD
 https://tv.ntnhd.com:3189/multi_web/play_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://vipotv.com/wp-content/uploads/2022/03/NTN-HD-Discovery-belgesel-canli-izleyin-turkiye.png", NTN BELGESEL FHD

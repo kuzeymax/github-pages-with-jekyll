@@ -378,9 +378,7 @@ http://46.29.169.27:8000/play/a04f
 #EXTINF:0 type="stream" channelId="3086" group="6_SPOR_SiFRESiZ_TV_KANALLAR", GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:0 type="stream" channelId="1090" group="6_SPOR_SiFRESiZ_TV_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/g/fi/13391/Thumbnail.png?v=636926454802035450", FB TV
-http://iptvmasterlink.dyndns.org:8080/FbTv/playlist.m3u8
-#EXTINF:0 type="stream" channelId="1090" group="6_SPOR_SiFRESiZ_TV_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/g/fi/13391/Thumbnail.png?v=636926454802035450", FB TV YEDEK
-https://stream-07.ix7.dailymotion.com/sec(1zZZZ1Jh3MWAQUOGa2TxYpzjjR4xq0d2Xb7I04GnsLzDKLOsktCWZOKJI3hq-UT2)/dm/3/x21oo10/s/live-1.m3u8
+https://stream-09.dc3.dailymotion.com/sec(1zZZZ1Jh3MWAQUOGa2TxYn43Txq0cU4FKQYEUUGS6EMX_jT9w3HAZPy3_pyI4iU8)/dm/3/x21oo10/s/live-1.m3u8
 #EXTINF:0 type="stream" channelId="3088" group="6_SPOR_SiFRESiZ_TV_KANALLAR", SPORTS TV HD
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:0 type="stream" channelId="3088" group="6_SPOR_SiFRESiZ_TV_KANALLAR", SPORTS TV HD YEDEK

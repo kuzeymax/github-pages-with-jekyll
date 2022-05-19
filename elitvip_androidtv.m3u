@@ -132,7 +132,7 @@ http://fidece38941.ozelip.com:2052/isvicretv/isvicretv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-sysOAwP1qyc/X2jF-YU8iuI/AAAAAAAAO1E/xEtBiocvA0g97px8TxB0-OPMywVwp_09wCLcBGAsYHQ/s320/isttv.png", iSTANBUL TV HD
 http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
 #EXTINF:0 type="stream" channelId="1123" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", MOViE TURK TV
-http://live-server-2.splitstream.io/7b0acd53-acd9-4e54-a672-f17cc97480f3/tracks-v1a1/mono.m3u8
+http://1bozguncustsv.ml:8080/live/sertac/sertac/53608.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-ouK2ZRcNR84/X3Lqgg1pzPI/AAAAAAAAPAM/kyUOyu2ogd0MqTLkN38iw2JXPy8PTx-ywCLcBGAsYHQ/s0/kanal2000.PNG", MSCB KANAL 2000 HD
 http://yerelmedya.tv:1935/kanal2000/bant1/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-ouK2ZRcNR84/X3Lqgg1pzPI/AAAAAAAAPAM/kyUOyu2ogd0MqTLkN38iw2JXPy8PTx-ywCLcBGAsYHQ/s0/kanal2000.PNG", MSCB KANAL 2000 SD
@@ -356,7 +356,7 @@ http://46.29.169.27:8000/play/a04f
 #EXTINF:0 type="stream" channelId="3086" group-title="6_SPOR_SiFRESiZ_TV_KANALLAR", GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:0 type="stream" channelId="1090" group-title="6_SPOR_SiFRESiZ_TV_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/g/fi/13391/Thumbnail.png?v=636926454802035450", FB TV
-https://stream-05.ix7.dailymotion.com/sec(1zZZZ1Jh3MWAQUOGa2TxYkhmPWjtz4TpXSUWTEpvqVsJ3FmMapK19w_5mdg6GwSP)/dm/3/x21oo10/s/live-1.m3u8
+https://stream-04.dc3.dailymotion.com/sec(1zZZZ1Jh3MWAQUOGa2TxYhFY4Wb7QUAmovTMcpPh_iTKQ84pGjSc_O-pdRG1FMGT)/dm/3/x21oo10/s/live-1.m3u8
 #EXTINF:0 type="stream" channelId="3088" group-title="6_SPOR_SiFRESiZ_TV_KANALLAR", SPORTS TV HD
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:0 type="stream" channelId="3088" group-title="6_SPOR_SiFRESiZ_TV_KANALLAR", SPORTS TV HD YEDEK

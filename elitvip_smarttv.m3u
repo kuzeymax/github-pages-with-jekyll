@@ -148,7 +148,7 @@ https://tv.ntnhd.com:3189/multi_web/play_720.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://vipotv.com/wp-content/uploads/2022/03/NTN-HD-Discovery-belgesel-canli-izleyin-turkiye.png", NTN BELGESEL FHD
 https://tv.ntnhd.com:3189/multi_web/play_1080.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmsLd6cBR66-VoR5aj5aSlYA6eP4OiaopZvV_zD6-LopyYNfOHA0NP_xfT3hSKVESWyLR8YTjwtu_mtOu-RH7oiPNlOE1L17t2Femh2kf4OPGi5AlO4whEgPII_pMfHvsZTCmPydnpDgQTvlHoem24HIoF0oMp7Im0pDwzlL0Gv-TP7N_UTlthSotkAw/w116-h70/teleon2.png", SATON HD
-http://1bozguncustsv.ml:8080/live/sertac/sertac/17237.m3u8
+http://live-server-2.splitstream.io/474f286e-10bb-414c-816b-652239507141/tracks-v1a1/mono.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyY0GEDf7rezWhgdCf1wzDzhWJskPxqc8AK5psFTc27ShAWFvzEqnpzL_lXrnF9U-RIsa8Y66jug9pXOG9_FGfFdWNjmguA7eWn2GxHPZq_ipnQ-HqDWMEuoeyssN_FRmN3nD-ppqaqm8CsRE59BtGSWW33iIdUx_Vx8rq4yT4_WJC0_y-g6ZSA0eYXQ/s1600/ONTVLOGO.png", TELEON HD
 https://streaming.netdirekt.com.tr/35757/msyapi/teleontv_digitalon_filmsmediagroup/chunks.m3u8
 #EXTINF:0 type="stream" channelId="4005" group="2_OZEL_iPTV_KANALLAR_1" logo="http://www.tvem.com.tr/Content/assets/img/logo@tvemyeni.png", TV EM
@@ -356,7 +356,7 @@ http://46.29.169.27:8000/play/a04f
 #EXTINF:0 type="stream" channelId="3086" group="6_SPOR_SiFRESiZ_TV_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3086", GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:0 type="stream" channelId="1090" group="6_SPOR_SiFRESiZ_TV_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/g/fi/13391/Thumbnail.png?v=636926454802035450", FB TV
-https://stream-04.dc3.dailymotion.com/sec(1zZZZ1Jh3MWAQUOGa2TxYh-G_pFUGgJSRl2fJwndx-Nk5OLmT67BFMQU0xr78FyG)/dm/3/x21oo10/s/live-1.m3u8
+https://stream-10.dc3.dailymotion.com/sec(1zZZZ1Jh3MWAQUOGa2TxYvTOc96AiRlIuveZVjO2IahKalOlMBd51rO_WGSx33Jo)/dm/3/x21oo10/s/live-1.m3u8
 #EXTINF:0 type="stream" channelId="3088" group="6_SPOR_SiFRESiZ_TV_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3088", SPORTS TV HD
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:0 type="stream" channelId="3088" group="6_SPOR_SiFRESiZ_TV_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3088", SPORTS TV HD YEDEK

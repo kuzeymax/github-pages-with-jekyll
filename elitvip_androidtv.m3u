@@ -11,9 +11,9 @@ https://trkvz-live.daioncdn.net/atv/atv_1080p.m3u8
 https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:0 type="stream" channelId="3996" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-b1BHMpUZAQg/YI3eM-4AbOI/AAAAAAAATQk/-sFIDuHn6JIy2SC-_pD8HytiquHERf9YACLcBGAsYHQ/s0/ATV%2B-%2BKopya.png", ATV [OZEL]
 http://1bozguncustsv.ml:8080/live/sertac/sertac/347.m3u8
-#EXTINF:0 type="stream" channelId="208" group-title="1_ULUSAL_KANALLAR" logo="http://1bozguncustsv.ml:8080/sertac/sertac/326", FOX TV HD
+#EXTINF:0 type="stream" channelId="208" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-aNHq9fXOobA/YI3eOUhdOEI/AAAAAAAATQ8/tudnxeQ3XuMwFqGfRXlu6ZUiWj-o3mUGQCLcBGAsYHQ/s0/FOX%2B-%2BKopya.png", FOX TV HD
 https://mn-nl.mncdn.com/blutv_foxtv_dvr/live_720p2000000kbps/index.m3u8
-#EXTINF:0 type="stream" channelId="208" group-title="1_ULUSAL_KANALLAR" logo="http://1bozguncustsv.ml:8080/sertac/sertac/326", FOX TV  [OZEL]
+#EXTINF:0 type="stream" channelId="208" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-aNHq9fXOobA/YI3eOUhdOEI/AAAAAAAATQ8/tudnxeQ3XuMwFqGfRXlu6ZUiWj-o3mUGQCLcBGAsYHQ/s0/FOX%2B-%2BKopya.png", FOX TV  [OZEL]
 http://1bozguncustsv.ml:8080/live/sertac/sertac/326.m3u8
 #EXTINF:0 type="stream" channelId="177" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-aNHq9fXOobA/YI3eOUhdOEI/AAAAAAAATQ8/tudnxeQ3XuMwFqGfRXlu6ZUiWj-o3mUGQCLcBGAsYHQ/s0/FOX%2B-%2BKopya.png", FOX TV [LiNK]
 https://streamlinkquery.herokuapp.com/iptv-query?streaming-ip=https://www.fox.com.tr/canli-yayin?m3u8

@@ -336,9 +336,9 @@ http://1bozguncustsv.ml:8080/live/sertac/sertac/378.m3u8
 #EXTINF:0 type="stream" channelId="3086" group-title="6_SPOR_SiFRESiZ_TV_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3086", GS TV HD
 https://owifavo5.rocketcdn.com/gstv/gstv.smil/master.m3u8
 #EXTINF:0 type="stream" channelId="1090" group-title="6_SPOR_SiFRESiZ_TV_KANALLAR" logo="https://img.dsmartgo.com.tr/resize-height/400//content/g/fi/13391/Thumbnail.png?v=636926454802035450", FB TV
-https://stream-04.dc3.dailymotion.com/sec(1zZZZ1Jh3MWAQUOGa2TxYh-G_pFUGgJSRl2fJwndx-Nk5OLmT67BFMQU0xr78FyG)/dm/3/x21oo10/s/live-1.m3u8
+https://stream-03.dc3.dailymotion.com/sec(1zZZZ1Jh3MWAQUOGa2TxYu4I8UlLpSVCP8_lvUg0q_9yUuF_oqHP0ZUH5_SxRl3y)/dm/3/x21oo10/s/live-1.m3u8
 #EXTINF:0 type="stream" channelId="1090" group-title="6_SPOR_SiFRESiZ_TV_KANALLAR", FB TV [LiNK]
-https://streamlinkquery.herokuapp.com/iptv-query?streaming-ip=http://www.dailymotion.com/video/x21oo10
+https://streamlinkquery.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x21oo10
 #EXTINF:0 type="stream" channelId="3088" group-title="6_SPOR_SiFRESiZ_TV_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3088", SPORTS TV HD
 https://mn-nl.mncdn.com/blutv_sportstv2/live.m3u8
 #EXTINF:0 type="stream" channelId="3088" group-title="6_SPOR_SiFRESiZ_TV_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=3088", SPORTS TV HD YEDEK
@@ -398,11 +398,11 @@ https://mn-nl.mncdn.com/blutv_nr1turk2/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-DIJITAL_MUZiK_TV_KANALLAR" logo="https://www.numberone.com.tr/wp-content/uploads/2015/12/nr1-tv-logo-224x126.jpg", NR 1 TV HD
 https://mn-nl.mncdn.com/blutv_nr12/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="7-DIJITAL_MUZiK_TV_KANALLAR" logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/ask-tv-web-224x126.jpg", NR1 ASK [LiNK]
-https://streamlinkquery.herokuapp.com/iptv-query?streaming-ip=http://www.dailymotion.com/video/x67ch24
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x67ch24
 #EXTINF:0 type="stream" channelId="-1" group-title="7-DIJITAL_MUZiK_TV_KANALLAR" logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/dance-tv-web-224x126.jpg", NR1 DANCE [LiNK]
-https://streamlinkquery.herokuapp.com/iptv-query?streaming-ip=http://www.dailymotion.com/video/x67chco
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x67chco
 #EXTINF:0 type="stream" channelId="-1" group-title="7-DIJITAL_MUZiK_TV_KANALLAR" logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/damar-tv-web-224x126.jpg", NR1 DAMAR [LiNK]
-https://streamlinkquery.herokuapp.com/iptv-query?streaming-ip=http://www.dailymotion.com/video/x67ch8g
+https://qslinksil.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/video/x67ch8g
 #EXTINF:0 type="stream" channelId="1066" group-title="8_GENEL_ICERIK_YASAM_EGLENCE" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=1066", AKILLI TV
 http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="8_GENEL_ICERIK_YASAM_EGLENCE" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/80/330x330/60420ec2866ac32430025ece", BiZiM EV TV

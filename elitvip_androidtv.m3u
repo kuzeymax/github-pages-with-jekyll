@@ -87,9 +87,9 @@ https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 https://dogus-live.daioncdn.net/tlc/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/60995084866ac3099473a292?w=80&q=75", ID HD TR
 https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", [B]LU TV PLAY 1
+#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BLUPLAY 1
 https://mn-nl.mncdn.com/blutv_aksiyon/live.m3u8
-#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d42d866ac31658881732?w=80&q=75", [B]LU TV PLAY 2
+#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d42d866ac31658881732?w=80&q=75", BLUPLAY 2
 https://mn-nl.mncdn.com/blutv_komedi/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm7S3F2kcTgroAQ0Qo8hkPukHflHv_uQQ3MS3gpnhAC8_wiySI13H0M4ONHH7JmPoAjny6KwoAhUlXxmHWOZwemahVF2E6Qu_IpoLB8SzWi7Fh7MtEY1oF0p66l21eBchGKwOEGJTzh9jLXsg74jBRoGi04040L5MT6ASCDFFxOSG-D4Ex58vEYZzk_g/s150/afyon%20-%20Kopya.png", AFYON TURK HD
 https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8

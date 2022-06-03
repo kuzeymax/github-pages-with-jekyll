@@ -111,6 +111,8 @@ https://cdn-cinemidi.yayin.com.tr/cinemidi/cinemidi/playlist.m3u8
 https://host.onlineradyotv.net:8081/cine5/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-wF5eNKY01xg/X6rpBQckirI/AAAAAAAAPp0/DV08ZjdaWlECc4-XCNqa6ATJJoy6moLKgCLcBGAsYHQ/s320/denizposta.png", DENiZ POSTASI TV
 http://yerelmedya.tv:1935/denizpostasitv/bant1/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgv5llNN2cMs6f-O2wTFzriH4XNSer4fQA9UDtt1ae-9r7g5bd1u823mMyJeEusDlasLzh2ylcgxOd-SBl6kFEpPXI_H-GBymh5fCmjrTVlFkr0lihyMKtorYAubtI_-JEaQH2NtMsb1JzR8EHprn3MJ32l13Vwbjji8O5h4HSzN_Tu2oGgN8_UfJm9-A=w71-h71", DiZi TV TDC HD
+http://vod123.site:8080/live/PedFaria/fmrdxTXPG6/94991.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-bAaSpLS9MRM/XodxofyKc8I/AAAAAAAALS8/E6bDIjYBvw4FLUD1thhldYCrjFS24VDFwCK4BGAsYHg/kanal%2B19.png", KANAL 19
 http://live.arkumedia.com:1935/kanal19tv/kanal19tv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="2_OZEL_iPTV_KANALLAR_1" logo="https://1.bp.blogspot.com/-b3mvojhDEc4/YG9RQFDMlBI/AAAAAAAASfc/nJNsF9CIuXclZ5aRneCRcJhTZ6Kh1H5XgCLcBGAsYHQ/s250/NPgSgYm.png", KANAL iSTANBUL HD

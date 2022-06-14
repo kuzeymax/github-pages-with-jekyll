@@ -36,7 +36,7 @@ https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 #EXTINF:0 type="stream" channelId="1076" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-GWmwAkiTtZg/YI3gWQsQSpI/AAAAAAAATR8/jM4xk3oIcDwNX6LWypePM-ZsC89xN3cdwCLcBGAsYHQ/s0/TV8.png", TV8 HD
 http://46.31.146.187:44300/play/a040/index.m3u8
 #EXTINF:0 type="stream" channelId="1076" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-GWmwAkiTtZg/YI3gWQsQSpI/AAAAAAAATR8/jM4xk3oIcDwNX6LWypePM-ZsC89xN3cdwCLcBGAsYHQ/s0/TV8.png", TV8 HD  [OZEL]
-http://vod123.site:8080/live/PedFaria/fmrdxTXPG6/66851.m3u8
+http://he11o.akadatel.com/iptv/P639G6XKBCQQB2/6896/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-eY2gpbPF9nQ/X5yapo7LIgI/AAAAAAAAPdU/PxaUzSWJaEwxf-DNWtWW7xKCvTjAJLEPgCLcBGAsYHQ/s0/tv8%25C4%25B1nt.png", TV8 iNT HD
 https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="3991" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-f_Y8Igvh2NY/YI3eQBolpXI/AAAAAAAATRg/HQFrcs6G5Lo5UJ4jc313jhqO6w1wvClUQCLcBGAsYHQ/s0/TV85%2B-%2BKopya.png", TV8 BUCUK HD
@@ -64,7 +64,7 @@ http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8
 #EXTINF:0 type="stream" channelId="4632" name="A2" group="1_ULUSAL_KANALLAR" logo="http://img.ss-iptv.com/?action=getChannelLogo&id=4632" tvg-country="tr", SHOWMAX  [PLAY]
 http://46.31.146.187:44300/play/a01p/index.m3u8
 #EXTINF:0 type="stream" channelId="3992" name="A2" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-QvOG8_nCdQ4/YI3eM6oZyCI/AAAAAAAATQo/XHbRVV4wJZYZxhMNu4tOSCnuwjUzbci-ACLcBGAsYHQ/s0/A2%2B-%2BKopya.png" tvg-country="tr", A2 TR  [OZEL]
-http://vod123.site:8080/live/PedFaria/fmrdxTXPG6/66859.m3u8
+http://he11o.akadatel.com/iptv/P639G6XKBCQQB2/6908/index.m3u8
 #EXTINF:0 type="stream" channelId="3040" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-NPNeFZp5Vkg/YI3ePZmi9uI/AAAAAAAATRU/Qkq8zk5iY1sbN3qU90TEepItuP7_rGomACLcBGAsYHQ/s0/TEVE2.png", TEVE 2
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:0 type="stream" channelId="3040" group="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-NPNeFZp5Vkg/YI3ePZmi9uI/AAAAAAAATRU/Qkq8zk5iY1sbN3qU90TEepItuP7_rGomACLcBGAsYHQ/s0/TEVE2.png", TEVE 2 HD

@@ -87,6 +87,10 @@ https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/mas
 https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d42d866ac31658881732?w=80&q=75", BLUPLAY 2 HD
 https://mn-nl.mncdn.com/blutv_play2_dvr/live.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d4b4866ac31658881736?w=80&q=75", BLUPLAY 1 FHD
+http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blutv-images.mncdn.com/q/t/i/bluv2/75/80x80/6295d42d866ac31658881732?w=80&q=75", BLUPLAY 2 FHD
+http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3L09xl1bDGtC_n8SOLZMgIP2awPozo5Cs_Z4CiLkTpBNpqj3XGfnHE24T2d6TfotfKznFjWjbgxN7R3V_c8hZQd4G8ylR0gIpYFSEdZVbrawe8gmMfEEYfivfMPcubHXydzQcC7AMMe5qi_mbdAKfImo6K7G1m1bUYP1YpwlKPMjh8qpa9PzEP-Y_Jw/s48/LOCATV.png", OZEL LOCA FHD
 http://he11o.akadatel.com/iptv/P639G6XKBCQQB2/6736/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="2_OZEL_iPTV_KANALLAR_1" logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh6jaxwtLC4xV5UoNVGm0i2_6UjPZHO9c425QCwp5DgM3E3tBEaOoTjmh0Pw6LcggKhuZklMzt9WDMbNvJ1xiUJySjiBT2An0ehwW2jenBmqRWWYa4aCmwJyy8omzsjZXLvndrcRmbyCRr_DvTjLgGYldtRnjcKyW0kUjie5lc7qMoMMN6gdUFp3k-4Q/s1600/SLN1.PNG", OZEL SALON 1 FHD

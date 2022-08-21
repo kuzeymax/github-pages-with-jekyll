@@ -42,7 +42,7 @@ https://59c7ea6bec1c6.streamlock.net/filbox/tv8.stream/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-eY2gpbPF9nQ/X5yapo7LIgI/AAAAAAAAPdU/PxaUzSWJaEwxf-DNWtWW7xKCvTjAJLEPgCLcBGAsYHQ/s0/tv8%25C4%25B1nt.png", TV8 iNT HD
 https://mn-nl.mncdn.com/blutv_tv8_int2/live_720p2000000kbps/index.m3u8
 #EXTINF:0 type="stream" channelId="3991" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-f_Y8Igvh2NY/YI3eQBolpXI/AAAAAAAATRg/HQFrcs6G5Lo5UJ4jc313jhqO6w1wvClUQCLcBGAsYHQ/s0/TV85%2B-%2BKopya.png", TV8 BUCUK HD [OZEL]
-http://kuchini.site:8080/live/livetvchannel2021/fe326fcc/518.m3u8
+https://tv85.blutv.com/blutv_tv8_5_live/live.m3u8
 #EXTINF:0 type="stream" channelId="3991" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-f_Y8Igvh2NY/YI3eQBolpXI/AAAAAAAATRg/HQFrcs6G5Lo5UJ4jc313jhqO6w1wvClUQCLcBGAsYHQ/s0/TV85%2B-%2BKopya.png", TV8 BUCUK [MPD]
 http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd
 #EXTINF:0 type="stream" channelId="18" group-title="1_ULUSAL_KANALLAR" logo="https://1.bp.blogspot.com/-RL3Nn27pxE0/YI3eNix6n9I/AAAAAAAATQs/Qpc_9jpoQD8ZqMHL7PBtNT5VNtKXWY6TwCLcBGAsYHQ/s0/BEYAZ%2B-%2BKopya.png", BEYAZ TV HD

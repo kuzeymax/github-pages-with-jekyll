@@ -1045,6 +1045,8 @@ https://rtmp.baku.tv/live/bakutv_1080p.m3u8
 http://hasan.tvcag.live/str.yodacdn.net/cbc/mono.m3u8?token=7e77f92567fc02c773255c8e4a7dd56b1605756a-a55304e5ed7cdf3d9bdcc2e080137c96-1660773577-1660762777
 #EXTINF:0 type="stream" channelId="-1" group="16_AZERBAYCAN_TV_KANALLAR" logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png", CBC SPORT HD
 http://hasan.tvcag.live:8080/50.7.144.122:1935/filbox/cbcsport.stream/index-3.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="SUPERSATFORUM" group="16_AZERBAYCAN_TV_KANALLAR" logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png", CBC SPORT YEDEK
+http://212.18.115.193:3599/play/a00l/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="16_AZERBAYCAN_TV_KANALLAR" logo="https://1.bp.blogspot.com/-RKcfFhwmueY/YGITn4UCFqI/AAAAAAAASU4/KW8HZ6cnbFcpoA3a6ewvLadWCyOKS_XnwCLcBGAsYHQ/s1689/eltv.png", EL TV AZ
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="16_AZERBAYCAN_TV_KANALLAR" logo="https://blogger.googleusercontent.com/img/a/AVvXsEgGaFgdYpykWk0Nbkk28NC41yRzrmWFFi0SGjYHcbaPdQkKNWFJkxsNitQY-RkK-LiscMF5R-QAwBIYco8O-HqDQRIx7DO2AnEpory15pgVmxKp1hroq6glva0wLtnlLWhtADukbN3vBW20SPf1WETni8VJmCKj3hb5A62_iMtY8OGGkrptFSveUzUqSA=s130", HADi TV 3 AZ
@@ -1217,7 +1219,7 @@ http://muzkurd.com/sterktv/sterk/chunklist_w211506982.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="18_ELITvip_PAKET_SPORT" logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png", CBC SPORT HD
 http://hasan.tvcag.live:8080/50.7.144.122:1935/filbox/cbcsport.stream/index-3.m3u8
-#EXTINF:0 type="stream" channelId="-1" name="SUPERSATFORUM" group="18_ELITvip_PAKET_SPORT" logo="http://tvlogo.xyz/Kurd/kurd-channel-iq.png", CBC SPORT YEDEK
+#EXTINF:0 type="stream" channelId="-1" name="SUPERSATFORUM" group="18_ELITvip_PAKET_SPORT" logo="http://www.cbcsport.az/assets/img/channel_logos_square_2.png", CBC SPORT YEDEK
 http://212.18.115.193:3599/play/a00l/index.m3u8
 #EXTINF:0 type="stream" channelId="824" group="18_ELITvip_PAKET_SPORT" logo="https://vipotv.com/wp-content/uploads/2020/07/idmantv.png", iDMAN TV AZ
 http://109.205.166.68/server124/idman_az/index.m3u8

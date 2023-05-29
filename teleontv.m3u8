@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
-https://streaming.netdirekt.com.tr/35757/teleontv/klasmediagroup_lisansli_4kultrahd_/chunks.m3u8
+http://34.107.124.147:3942/stream/play.m3u8
